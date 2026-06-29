@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TocConsulting/iam-security-scanner/main/assets/iam-security-scanner-logo.png" alt="IAM Security Scanner" style="max-width: 100%; height: auto;">
+  <img src="https://raw.githubusercontent.com/TocConsulting/iam-security-scanner/main/assets/iam-security-scanner-logo.png" alt="iam-security-scanner" width="320" style="height: auto;">
 </p>
 
 <p align="center">
