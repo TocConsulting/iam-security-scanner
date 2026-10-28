@@ -6,7 +6,7 @@ Thank you for your interest in contributing to the IAM Security Scanner! We welc
 
 ### Prerequisites
 
-- Python 3.10 or higher
+- Python 3.11 or higher
 - Git
 - AWS CLI configured with appropriate credentials
 - Good understanding of AWS IAM security concepts (users, roles, policies, trust relationships, the credential report)

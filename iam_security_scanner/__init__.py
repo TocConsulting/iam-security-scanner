@@ -1,7 +1,7 @@
 """IAM Security Scanner - Comprehensive AWS IAM security auditing tool
 with multi-framework compliance mapping."""
 
-__version__ = "1.0.0"
+__version__ = "1.1.0"
 __author__ = "Toc Consulting"
 __email__ = "tarek@tocconsulting.fr"
 
